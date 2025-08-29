@@ -145,9 +145,7 @@ This schema ensures full traceability of portfolio and historical trades.
 
 ## License
 
-Choose one depending on your goals:  
-- **MIT** — permissive and simple.  
-- **Apache 2.0** — enterprise-friendly, patent protection.  
+- **MIT**
 
 ---
 
